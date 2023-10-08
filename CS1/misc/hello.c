@@ -13,6 +13,6 @@ int main()
  {
 
   printf("Hello World!\n");
-  printf("I love the School of Computing!");
+  printf("i love the scool of computing!");
 
 }
